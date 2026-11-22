@@ -1,7 +1,7 @@
 # Undead Redemption
 
 **Name:** Nafew Yeasin
-**Student ID:** `<add student ID>`
+**Student ID:** 11230321355
 **Course:** CSE 4108 - Computer Graphics and Multimedia System Lab
 **Section:** 7C
 
